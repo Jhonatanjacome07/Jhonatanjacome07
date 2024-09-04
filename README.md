@@ -23,6 +23,8 @@
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)&nbsp;
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
+![LARAVEL](https://img.shields.io/badge/Laravel-v10-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)&nbsp;
+
 
 ### 🗃 &nbsp;Bases de Datos
 
@@ -53,17 +55,11 @@
 
 ### 🤝🏻 &nbsp;Contactos
 <br>
-<div align="center">
-  <a target="_blank" href="https://www.linkedin.com/in/jhonatan-steven-jacome-/">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img>
-  </a>
-  <a target="_blank" href="mailto:jhonatanjacome99@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img>
-  </a>
-  <a target="_blank" href="https://www.facebook.com/jhonatan.jacome.33">
-    <img src="https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=Facebook&logoColor=white"></img>
-  </a>
-</div>
+<p align="center">
+  <a target="_blank" href="https://www.linkedin.com/in/jhonatan-steven-jacome-/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
+  <a target="_blank" href="mailto:jhonatanjacome99@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
+  <a target="_blank" href="https://www.facebook.com/jhonatan.jacome.33"> <img src="https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=Facebook&logoColor=white"></img></a>
+</p>
 <br>
 
 
