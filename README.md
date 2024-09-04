@@ -15,7 +15,7 @@
 📫 Contacto: jhonatanjacome99@gmail.com
 
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+<img alt="Night Coding" src="https://giffiles.alphacoders.com/220/220764.gif" align="right"/>
 
 ### 🛠 &nbsp;Stack de Tecnologías
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)&nbsp;
@@ -24,11 +24,10 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
 
-### 🗃 &nbsp;Base de Datos
+### 🗃 &nbsp;Bases de Datos
 
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
-
-
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
 
 ### 🧰 &nbsp;Control de Versiones y Herramientas 
 
@@ -60,10 +59,3 @@
 <a href="https://www.facebook.com/jhonatan.jacome.33"><img src="https://img.shields.io/badge/-AdityaKanoi-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 </p>
 
-### 🐍 &nbsp;
-
-<div align="center">
-  <a href="https://github.com/Jhonatanjacome07/">
-  <img src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
