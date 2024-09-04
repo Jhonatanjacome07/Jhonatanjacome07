@@ -1,4 +1,27 @@
-![Gif](https://giffiles.alphacoders.com/220/220159.gif)
+<p align="center">
+  <img src="https://giffiles.alphacoders.com/220/220764.gif" alt="Night Coding" width="500" />
+</p>
+
+
+<h2 align="left">¡Hola! Soy Jhonatan Jácome.</h2>
+
+<!-- ## 👋 &nbsp;Hey there! I'm Aditya Kanoi -->
+
+### 👨🏻‍💻 &nbsp; Sobre Mi
+
+🎓 Ingeniero en Software
+
+💻 Recién egresado con una sólida formación académica y experiencia práctica en el desarrollo de software. Apasionado por la tecnología y en busca de nuevas oportunidades que me permitan aplicar y expandir mis conocimientos, así como enfrentar nuevos desafíos profesionales.
+
+📝 Roles desempeñados: Analista de Requerimientos, Desarrollador Front-end, Desarrollador Back-end.
+
+📫 Contacto: jhonatanjacome99@gmail.com
+
+
+<img  src="
+<p align="center">
+  <img src="https://giffiles.alphacoders.com/211/211796.gif" height="200" />
+</p>
 
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2 align="left">¡Hola! Soy Jhonatan Jácome.</h2>
 
@@ -14,8 +37,11 @@
 
 📫 Contacto: jhonatanjacome99@gmail.com
 
+<!--
+Revisar para poner un gif
+<img alt="Night Coding" src="https://giffiles.alphacoders.com/211/211796.gif" align="right"/> -->
 
-<img alt="Night Coding" src="https://giffiles.alphacoders.com/220/220764.gif" align="right"/>
+
 
 ### 🛠 &nbsp;Stack de Tecnologías
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)&nbsp;
