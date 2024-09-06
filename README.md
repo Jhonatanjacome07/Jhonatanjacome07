@@ -18,7 +18,7 @@
 
 📝 Roles desempeñados: Analista de Requerimientos, Desarrollador Front-end, Desarrollador Back-end.
 
-📫 Contacto: jhonatanjacome99@gmail.com
+📫 Contacto: jhonatanjacome07@gmail.com
 
 <!--
 Revisar para poner un gif
