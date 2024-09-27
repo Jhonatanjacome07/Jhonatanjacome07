@@ -14,7 +14,7 @@
 
 🎓 Ingeniero en Software
 
-💻 Recién egresado con una sólida formación académica y experiencia práctica en el desarrollo de software. Apasionado por la tecnología y en busca de nuevas oportunidades que me permitan aplicar y expandir mis conocimientos, así como enfrentar nuevos desafíos profesionales.
+💻 Ingeniero en software con una sólida formación académica y experiencia práctica en el desarrollo de software. Apasionado por la tecnología y en busca de nuevas oportunidades que me permitan aplicar y expandir mis conocimientos, así como enfrentar nuevos desafíos profesionales.
 
 📝 Roles desempeñados: Analista de Requerimientos, Desarrollador Front-end, Desarrollador Back-end.
 
