@@ -54,9 +54,7 @@ Revisar para poner un gif
  <a href="https://github.com/Jhonatanjacome07"><img height="150em" src="https://github-readme-stats.vercel.app/api?username=Jhonatanjacome07&show_icons=true&theme=radical" /></a>
 </p>
 
-<p align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Jhonatanjacome07&theme=dark&hide_border=true"/>
-</p>
+
 
 ### 🤝🏻 &nbsp;Contactos
 <br>
