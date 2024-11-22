@@ -3,6 +3,7 @@
 </p>
 
 <h1 align="left">¡Hola! Soy Jhonatan Jácome.</h2>
+
 **Ingeniero de Software Full Stack | React.js y Laravel**  
 
 Bienvenido a mi repositorio GitHub 🚀 Aquí encontrarás proyectos que reflejan mi pasión por el desarrollo web moderno y las tecnologías de vanguardia.  
