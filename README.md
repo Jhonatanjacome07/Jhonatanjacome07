@@ -10,11 +10,15 @@
 
 <!-- ## 👋 &nbsp;Hola soy Jhonatan Jácome -->
 
-### 👨🏻‍💻 &nbsp; Sobre Mi
+**Ingeniero de Software Full Stack | Especializado en React.js y Laravel**  
 
-🎓 Ingeniero en Software
+Bienvenido a mi repositorio GitHub 🚀 Aquí encontrarás proyectos que reflejan mi pasión por el desarrollo web moderno y las tecnologías de vanguardia.  
 
-💻 Ingeniero en software con una sólida formación académica y experiencia práctica en el desarrollo de software. Apasionado por la tecnología y en busca de nuevas oportunidades que me permitan aplicar y expandir mis conocimientos, así como enfrentar nuevos desafíos profesionales.
+### 🌟 **Sobre mí**  
+- **Frontend**: Experiencia en React.js con TypeScript y diseño responsivo con Tailwind CSS.  
+- **Backend**: Desarrollo robusto con Laravel 10, APIs RESTful y PostgreSQL/MySQL.  
+- **Experiencia**: He trabajado en proyectos que incluyen sistemas de inventarios, portales públicos empresariales y plataformas de adopción.  
+
 
 📝 Roles desempeñados: Analista de Requerimientos, Desarrollador Front-end, Desarrollador Back-end.
 
