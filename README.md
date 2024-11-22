@@ -2,13 +2,8 @@
   <img src="https://giffiles.alphacoders.com/220/220764.gif" alt="Night Coding" width="500" />
 </p>
 
-<p align="center">
-  <img src="https://giffiles.alphacoders.com/211/211796.gif" height="200" />
-</p>
-
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2 align="left">¡Hola! Soy Jhonatan Jácome.</h2>
-
-**Ingeniero de Software Full Stack | Especializado en React.js y Laravel**  
+<h1 align="left">¡Hola! Soy Jhonatan Jácome.</h2>
+**Ingeniero de Software Full Stack | React.js y Laravel**  
 
 Bienvenido a mi repositorio GitHub 🚀 Aquí encontrarás proyectos que reflejan mi pasión por el desarrollo web moderno y las tecnologías de vanguardia.  
 
