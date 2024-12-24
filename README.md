@@ -42,9 +42,6 @@ Bienvenido a mi repositorio GitHub 🚀 Aquí encontrarás proyectos que refleja
   <a href="https://github.com/Jhonatanjacome07"> 
     <img height="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jhonatanjacome07&theme=radical" />
   </a>
-  <a href="https://github.com/Jhonatanjacome07">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Jhonatanjacome07&show_icons=true&theme=radical" />
-  </a>
 </p>
 
 ### 🤝🏻 &nbsp;Contactos  
