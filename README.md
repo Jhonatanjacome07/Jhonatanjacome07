@@ -52,10 +52,7 @@ Bienvenido a mi repositorio GitHub 🚀 Aquí encontrarás proyectos que refleja
   <a href="mailto:jhonatanjacome99@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.facebook.com/jhonatan.jacome.33" target="_blank">
-    <img src="https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-  </a>
-</p>
+ </p>
 
 
 
