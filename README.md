@@ -13,7 +13,7 @@ Bienvenido a mi repositorio GitHub 🚀 Aquí encontrarás proyectos que refleja
 - **Backend**: Desarrollo robusto con Laravel 10, APIs RESTful y PostgreSQL/MySQL.  
 - **Experiencia**: He trabajado en proyectos que incluyen sistemas de inventarios, portales públicos empresariales y plataformas de adopción.  
 
-📝 **Roles desempeñados**: Project Manage, Analista de Requerimientos, Desarrollador Front-end, Desarrollador Back-end.  
+📝 **Roles desempeñados**: Project Manager, Analista de Requerimientos, Desarrollador Front-end, Desarrollador Back-end.  
 
 📫 **Contacto**: jhonatanjacome99@gmail.com  
 
