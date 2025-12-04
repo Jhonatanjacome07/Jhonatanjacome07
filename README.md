@@ -42,25 +42,7 @@ Bienvenido a mi repositorio GitHub 🚀 Aquí encontrarás proyectos que refleja
 ### ⚙️ &nbsp;Análisis de GitHub  
 
 <p align="center">
-  <a href="https://github.com/Jhonatanjacome07">
-    <img src="https://komarev.com/ghpvc/?username=Jhonatanjacome07&color=red&style=for-the-badge" alt="Profile Views" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/github/followers/Jhonatanjacome07?style=for-the-badge&logo=github&color=red" alt="GitHub Followers" />
-  <img src="https://img.shields.io/github/stars/Jhonatanjacome07?style=for-the-badge&logo=github&color=red" alt="GitHub Stars" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jhonatanjacome07&theme=radical" alt="GitHub Profile Summary" />
-</p>
-### ⚙️ &nbsp;Perfil de GitHub  
-
-<p align="center">
-  <a href="https://github.com/Jhonatanjacome07">
-    <img src="https://img.shields.io/badge/Ver%20mis%20proyectos-181717?style=for-the-badge&logo=github&logoColor=white" alt="Ver proyectos" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jhonatanjacome07&layout=compact&theme=radical&langs_count=8&hide_border=true" alt="Lenguajes más usados" />
 </p>
 ### 🤝🏻 &nbsp;Contactos  
 
