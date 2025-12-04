@@ -109,6 +109,7 @@ Ingeniero de Software especializado en desarrollo Full Stack con experiencia com
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jhonatanjacome07&layout=compact&langs_count=8&theme=radical"/>
   </a>
 </p>
+
 ---
 
 ## 🎓 Educación
