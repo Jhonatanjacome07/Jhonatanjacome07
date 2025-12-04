@@ -42,8 +42,7 @@ Bienvenido a mi repositorio GitHub 🚀 Aquí encontrarás proyectos que refleja
 ### ⚙️ &nbsp;Análisis de GitHub  
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Jhonatanjacome07&layout=compact&theme=radical&langs_count=8" alt="Lenguajes más usados" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jhonatanjacome07&layout=donut&theme=radical&langs_count=6&hide_border=true" alt="Lenguajes más usados" />
 </p>
-### 🤝🏻 &nbsp;Contactos  
 
 <p align="center">
