@@ -42,10 +42,11 @@ Bienvenido a mi repositorio GitHub 🚀 Aquí encontrarás proyectos que refleja
 ### ⚙️ &nbsp;Análisis de GitHub  
 
 <p align="center">
-  <a href="https://github.com/Jhonatanjacome07">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jhonatanjacome07&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jhonatanjacome07&layout=compact&langs_count=8&theme=radical"/>
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=Jhonatanjacome07&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jhonatanjacome07&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ### 🤝🏻 &nbsp;Contactos  
