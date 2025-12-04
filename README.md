@@ -2,7 +2,7 @@
   <img src="https://giffiles.alphacoders.com/220/220764.gif" alt="Night Coding" width="500" />
 </p>
 
-<h1 align="left">¡Hola! Soy Jhonatan Jácome.</h2>
+<h1 align="left">¡Hola! Soy Jhonatan Jácome.</h1>
 
 **Ingeniero de Software Full Stack | React y Laravel**  
 
@@ -14,10 +14,10 @@ Bienvenido a mi repositorio GitHub 🚀 Aquí encontrarás proyectos que refleja
 - **Experiencia**: He trabajado en proyectos que incluyen sistemas de inventarios, portales públicos empresariales y plataformas de adopción.  
 
 📝 **Roles desempeñados**: Project Manager, Analista de Requerimientos, Desarrollador Front-end, Desarrollador Back-end.  
-
 📫 **Contacto**: jhonatanjacome99@gmail.com  
 
 ### 🛠 &nbsp;Stack de Tecnologías  
+
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)&nbsp;
 ![React.js](https://img.shields.io/badge/reactjs-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)&nbsp;
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
@@ -28,23 +28,28 @@ Bienvenido a mi repositorio GitHub 🚀 Aquí encontrarás proyectos que refleja
 ![Laravel](https://img.shields.io/badge/Laravel-v10-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)&nbsp;
 
 ### 🗃 &nbsp;Bases de Datos  
+
 ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
 
 ### 🧰 &nbsp;Control de Versiones y Herramientas  
+
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
 ![Eclipse](https://img.shields.io/badge/eclipse-%232C2255.svg?style=for-the-badge&logo=eclipse&logoColor=white)&nbsp;
 
 ### ⚙️ &nbsp;Análisis de GitHub  
+
 <p align="center">
-  <a href="https://github.com/Jhonatanjacome07"> 
-    <img height="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jhonatanjacome07&theme=radical" />
+  <a href="https://github.com/Jhonatanjacome07">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jhonatanjacome07&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jhonatanjacome07&layout=compact&langs_count=8&theme=radical"/>
   </a>
 </p>
 
 ### 🤝🏻 &nbsp;Contactos  
+
 <p align="center">
   <a href="https://www.linkedin.com/in/jhonatan-steven-jacome-/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -52,7 +57,4 @@ Bienvenido a mi repositorio GitHub 🚀 Aquí encontrarás proyectos que refleja
   <a href="mailto:jhonatanjacome99@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
- </p>
-
-
-
+</p>
