@@ -42,20 +42,13 @@ Bienvenido a mi repositorio GitHub 🚀 Aquí encontrarás proyectos que refleja
 ### ⚙️ &nbsp;Análisis de GitHub  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jhonatanjacome07&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jhonatanjacome07&theme=radical&hide_border=true" alt="GitHub Streak Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jhonatanjacome07&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jhonatanjacome07&theme=radical" alt="GitHub Profile Summary" />
 </p>
 
 ### 🤝🏻 &nbsp;Contactos  
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/jhonatan-steven-jacome-/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:jhonatanjacome99@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
