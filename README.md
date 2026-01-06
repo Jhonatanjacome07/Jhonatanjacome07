@@ -12,11 +12,25 @@
   Bienvenido a mi repositorio GitHub 🚀 Aquí encontrarás proyectos que reflejan mi pasión por el desarrollo web moderno, la automatización inteligente y las tecnologías de vanguardia.
 </p>
 
+<p align="center">
+  <a href="https://jhonatanjacome.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_Portafolio_Web-FF6B6B?style=for-the-badge&logoColor=white" alt="Portafolio Web" />
+  </a>
+  <a href="https://www.linkedin.com/in/jhonatan-steven-jacome-/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:jhonatanjacome99@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+</p>
+
 ---
 
 ## 🌟 Sobre mí
 
 Ingeniero de Software especializado en desarrollo Full Stack con experiencia comprobada en la creación de soluciones web modernas y eficientes. Mi enfoque combina el diseño de interfaces responsive, backend robusto y automatización de procesos para crear soluciones tecnológicas innovadoras de alto impacto.
+
+> 💼 **¿Quieres conocer más sobre mi trabajo?** Visita mi [portafolio web](https://jhonatanjacome.vercel.app) para explorar mis proyectos destacados y casos de éxito.
 
 ### 💼 Experiencia Profesional
 
@@ -49,6 +63,22 @@ Ingeniero de Software especializado en desarrollo Full Stack con experiencia com
 - **Automatización e IA**: Flujos automatizados, chatbots inteligentes y optimización de procesos
 - **UI/UX Design**: Diseño de experiencias de usuario con Figma y prototipado multidispositivo
 - **Análisis Estratégico**: Investigación de mercado y desarrollo de inteligencia de negocios
+
+---
+
+## 🚀 Proyectos Destacados
+
+<p align="center">
+  <a href="https://jhonatanjacome.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Ver_Todos_Mis_Proyectos-4A90E2?style=for-the-badge&logo=vercel&logoColor=white" alt="Ver Proyectos" />
+  </a>
+</p>
+
+Explora mi portafolio completo para ver:
+- 🎨 **Proyectos Frontend**: Aplicaciones web interactivas y responsivas
+- ⚙️ **Soluciones Backend**: Sistemas robustos y escalables
+- 🤖 **Automatizaciones con IA**: Chatbots y flujos inteligentes
+- 📱 **Diseños UI/UX**: Interfaces modernas y centradas en el usuario
 
 ---
 
@@ -88,6 +118,7 @@ Ingeniero de Software especializado en desarrollo Full Stack con experiencia com
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 </div>
 
@@ -128,9 +159,12 @@ Noviembre 2019 - Mayo 2024
 
 ---
 
-## 📫 Contacto
+## 📫 Conecta Conmigo
 
 <p align="center">
+  <a href="https://jhonatanjacome.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_Portafolio-Visit_Website-FF6B6B?style=for-the-badge" alt="Portafolio" />
+  </a>
   <a href="https://www.linkedin.com/in/jhonatan-steven-jacome-/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
@@ -144,6 +178,18 @@ Noviembre 2019 - Mayo 2024
 
 <p align="center">
   📍 Tabacundo, Quito, Ecuador | 📱 +593 939459669
+</p>
+
+---
+
+## 💡 ¿Trabajamos Juntos?
+
+Estoy siempre abierto a nuevas oportunidades y colaboraciones interesantes. Si tienes un proyecto en mente o simplemente quieres conectar, no dudes en contactarme.
+
+<p align="center">
+  <a href="https://jhonatanjacome.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Explorar_Mi_Trabajo-4A90E2?style=for-the-badge&logo=rocket&logoColor=white" alt="Explorar Trabajo" />
+  </a>
 </p>
 
 ---
