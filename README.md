@@ -66,22 +66,6 @@ Ingeniero de Software especializado en desarrollo Full Stack con experiencia com
 
 ---
 
-## 🚀 Proyectos Destacados
-
-<p align="center">
-  <a href="https://jhonatanjacome.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Ver_Todos_Mis_Proyectos-4A90E2?style=for-the-badge&logo=vercel&logoColor=white" alt="Ver Proyectos" />
-  </a>
-</p>
-
-Explora mi portafolio completo para ver:
-- 🎨 **Proyectos Frontend**: Aplicaciones web interactivas y responsivas
-- ⚙️ **Soluciones Backend**: Sistemas robustos y escalables
-- 🤖 **Automatizaciones con IA**: Chatbots y flujos inteligentes
-- 📱 **Diseños UI/UX**: Interfaces modernas y centradas en el usuario
-
----
-
 ## 🛠️ Stack de Tecnologías
 
 <div align="center">
@@ -124,22 +108,15 @@ Explora mi portafolio completo para ver:
 
 ---
 
-## 📊 Análisis de GitHub
+## 📊 Estadísticas de GitHub
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jhonatanjacome07&theme=radical&hide_border=true" alt="GitHub Streak Stats" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jhonatanjacome07&theme=radical" alt="GitHub Profile Summary" />
-</p>
+[![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Jhonatanjacome07&show_icons=true&theme=radical&include_all_commits=true&count_private=true)](https://github.com/Jhonatanjacome07)
 
-<p align="center">
-  <a href="https://github.com/Jhonatanjacome07">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jhonatanjacome07&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jhonatanjacome07&layout=compact&langs_count=8&theme=radical"/>
-  </a>
-</p>
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Jhonatanjacome07&layout=compact&theme=radical&langs_count=6)](https://github.com/Jhonatanjacome07)
+
+</div>
 
 ---
 
