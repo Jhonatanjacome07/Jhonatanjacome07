@@ -34,7 +34,7 @@ Ingeniero de Software especializado en desarrollo Full Stack con experiencia com
 
 ### 💼 Experiencia Profesional
 
-- **🤖 Programador Técnico de IA y Automatización** en **Simplia** (Sep 2025 - Actualidad)
+- **🤖 Programador Técnico de IA y Automatización** en **Simplia** (Sep 2025 - Ene 2026)
   - Diseño y entrenamiento de chatbots/voicebots conversacionales con IA
   - Construcción de flujos automatizados con n8n, Flowise y Chatwoot
   - Integración de sistemas empresariales con CRMs y plataformas de agendamiento
