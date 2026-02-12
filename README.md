@@ -34,6 +34,13 @@ Ingeniero de Software especializado en desarrollo Full Stack con experiencia com
 
 ### 💼 Experiencia Profesional
 
+- **Ecuabots-Smartmake** | Enero 2026 - Presente
+
+  - Desarrollo de aplicaciones web escalables con PHP (Laravel) y React
+  - Gestión de conexión multicanal y flujo de conversaciones mediante la plataforma Response
+  - Configuración de Dialogflow para el filtrado inteligente de interacciones y respuestas preestablecidas
+  - Orquestación de procesos automatizados integrando n8n con lógica de backend en PHP
+
 - **🤖 Programador Técnico de IA y Automatización** en **Simplia** (Sep 2025 - Ene 2026)
   - Diseño y entrenamiento de chatbots/voicebots conversacionales con IA
   - Construcción de flujos automatizados con n8n, Flowise y Chatwoot
@@ -108,13 +115,11 @@ Ingeniero de Software especializado en desarrollo Full Stack con experiencia com
 
 ---
 
-## 📊 Estadísticas de GitHub
-
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Jhonatanjacome07&show_icons=true&theme=radical&include_all_commits=true&count_private=true)](https://github.com/Jhonatanjacome07)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Jhonatanjacome07&theme=radical&hide_border=true)
 
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Jhonatanjacome07&layout=compact&theme=radical&langs_count=6)](https://github.com/Jhonatanjacome07)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jhonatanjacome07&layout=compact&hide_border=true&langs_count=6)
 
 </div>
 
